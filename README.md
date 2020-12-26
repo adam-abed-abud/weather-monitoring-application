@@ -4,7 +4,7 @@
 
 
  - Author: **Adam Abed Abud**
- - Last update: June, 2019
+ - Last update: December 26, 2020
 
 Adapted from: https://github.com/plotly/simple-example-chart-apps
 
